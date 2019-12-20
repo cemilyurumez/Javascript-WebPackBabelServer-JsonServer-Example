@@ -1,0 +1,16 @@
+{
+  "employees": [
+    {
+      "name": "Ahmet Cemil YÜRÜMEZ",
+      "department": "Yazılım",
+      "salary": 3800,
+      "id": 2
+    },
+    {
+      "name": "Kemal GEZER",
+      "department": "Pazarlama",
+      "salary": 4500,
+      "id": 3
+    }
+  ]
+}
