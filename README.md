@@ -8,4 +8,4 @@
 
 Çalışan uygulamada alınan görüntü aşağıdaki gibi olmalıdır.
 
-![](http://cemilyurumez.net/webpackBabel.png)
+![](http://cemilyurumez.net/upImg/webpackBabel.png)
